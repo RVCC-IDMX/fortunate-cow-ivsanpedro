@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# SpecStory conversation history (private to each student)
+.specstory/
+
+# Claude Code local files
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# npm logs
+npm-debug.log*
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo

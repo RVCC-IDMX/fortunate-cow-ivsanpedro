@@ -1,0 +1,21 @@
+{
+  "name": "fortunate-cow",
+  "version": "1.0.0",
+  "description": "A fortune-telling cow using cowsay - Week 3 Copilot Tutorial",
+  "type": "module",
+  "main": "fortune.js",
+  "scripts": {
+    "start": "node fortune.js",
+    "fortune": "node fortune.js"
+  },
+  "keywords": [
+    "cowsay",
+    "copilot",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
