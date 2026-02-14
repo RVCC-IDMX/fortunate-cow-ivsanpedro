@@ -1,6 +1,6 @@
 # AI collaboration summary
 
-**Student name:**
+**Student name: Ivana San Pedro**
 
 **Assignment:** Week 3 - Fortunate Cow
 
@@ -12,11 +12,11 @@ Document one meaningful interaction where you learned something or had to adjust
 
 **My prompt:**
 
-> <!-- Copy the prompt you used -->
+> How come the eyes aren't changing
 
 **What happened:**
 
-<!-- What did Agent do? What did you learn? -->
+Agent suggested that the issue was that the pig creature doesn't support custom eyes. I changed the creature to a sheep, so I had the ability to change the eyes based on the time of day. 
 
 ---
 
@@ -24,7 +24,7 @@ Document one meaningful interaction where you learned something or had to adjust
 
 **What effect did you observe from changing the instruction(s) to `copilot-instructions.md?**
 
-<!-- Did Copilot follow your instruction? How was the response different? -->
+Yes, Copilot followed my instructions. I noticed that it broke down its actions and explained the significance of each action. 
 
 ---
 
@@ -34,11 +34,11 @@ Answer these questions thoughtfully. A few sentences each is fine.
 
 **What stretched you?**
 
-<!-- What felt challenging or pushed you outside your comfort zone? -->
+Customizing the creature stretched me because I used if/else to change the creature's eyes depending on the time of day, and I needed to be able to use variables and semicolons properly, as well as changing the eyes accordingly. 
 
 **What did you learn?**
 
-<!-- What was the most useful thing you learned in this assignment? -->
+I learned that a number of cowsay creatures have the custom eyes feature. Also, I learned to save each time I made a change to fortune.js. I spent way too much time wondering why the changes I made were not reflected in the terminal. 
 
 ---
 
