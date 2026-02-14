@@ -41,13 +41,3 @@ Customizing the creature stretched me because I used if/else to change the creat
 I learned that a number of cowsay creatures have the custom eyes feature. Also, I learned to save each time I made a change to fortune.js. I spent way too much time wondering why the changes I made were not reflected in the terminal. 
 
 ---
-
-## Optional
-
-**What do you want to explore further?**
-
-<!-- Any features or concepts you're curious about? -->
-
-**Approximate time spent:**
-
-<!-- e.g., 30 minutes, 1 hour -->
