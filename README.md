@@ -43,12 +43,15 @@ Welcome to Week 3! This assignment is your first JavaScript code in the Copilot 
 <!-- TODO: Add your sample output here! Get creative with how you present it. -->
 
 ```text
- _________________________
-< Welcome to JavaScript! >
- -------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+  _____________________________
+< Wake me up in five minutes! >
+ -----------------------------
+  \
+   \
+       __     
+      U--U\.'@@@@@@`.
+      \__/(@@@@@@@@@@)
+           (@@@@@@@@)
+           `YY~~~~YY'
+            ||    ||
 ```

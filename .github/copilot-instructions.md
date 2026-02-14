@@ -17,3 +17,7 @@ You are helping a JavaScript beginner (~3 weeks experience) work on a Node.js sc
 ## Your instructions
 
 Add your own instructions below this line (as many as you want to experiment with):
+- "Add a comment above each variable"
+- "Explain your reasoning before showing code"
+- "Declare all variables at the top of the file"
+- "Suggest what I should try next to deepen my understanding"
